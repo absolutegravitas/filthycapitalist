@@ -32,7 +32,7 @@
     "ora": "^8.1.1",
     "semver": "^7.6.3",
     "std-env": "^3.8.0",
-    "zod": "^3.23.8",
+    "zod": "^3.24.1",
     "zod-validation-error": "^3.4.0"
   },
   "devDependencies": {
@@ -43,7 +43,7 @@
     "@types/fs-extra": "^11.0.4",
     "@types/jest": "^29.5.14",
     "@types/lodash.kebabcase": "^4.1.9",
-    "@types/node": "^20.17.9",
+    "@types/node": "^20.17.10",
     "@types/prompts": "^2.4.9",
     "@types/semver": "^7.5.8",
     "eslint": "^8.57.1",
